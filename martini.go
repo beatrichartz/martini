@@ -18,7 +18,7 @@
 package martini
 
 import (
-	"github.com/codegangsta/inject"
+	"github.com/beatrichartz/inject"
 	"log"
 	"net/http"
 	"os"
